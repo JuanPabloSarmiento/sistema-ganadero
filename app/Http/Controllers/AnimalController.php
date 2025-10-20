@@ -176,3 +176,4 @@ class AnimalController extends Controller
         return $response;
     }
 }
+// End of AnimalController.php
